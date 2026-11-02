@@ -2,6 +2,8 @@
 
 ## The "Big Muff Green Russian" pedal
 
+### Motivation
+
 The Big Muff pedal brought significant change to the music industry in the early 70s. Most of my favorite artists used at least one of its variation : 
 - _David Gilmour_ and the **Ram's Head**
 - _John Frusciante_ and the **Red and Black**
