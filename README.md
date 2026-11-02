@@ -17,3 +17,11 @@ It is also an elegant, straightforward circuit to build: the original 1990s Sovt
 ### Project Overview
 
 The goal of this project is to assemble the physical pedal to gain hands-on experience with analog hardware fabrication, and to numerically model its four non-linear gain and clipping stages using Python and LTspice.
+
+## My Assembled pedal  
+
+TODO: add pictures and audio amples of the pedal once built. 
+
+## My Model
+
+TODO: add figures (Bode...) and audio amples of the simulated audios
