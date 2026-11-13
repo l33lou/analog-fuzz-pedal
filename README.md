@@ -22,7 +22,11 @@ The goal of this project is to assemble the physical pedal to gain hands-on expe
 
 ## My Assembled pedal  
 
-TODO: add pictures and audio amples of the pedal once built. 
+With this kit from Musikding.de :
+![kit](./medias/pictures/kit.png)
+I painted, soldered and assembled my pedal : 
+![outside](./medias/pictures/boitier-peint.jpeg)
+![inside](./medias/pictures/boitier-monté.jpeg)
 
 ## My Model
 
